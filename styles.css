@@ -8,17 +8,20 @@ h2{
   color:hsl(30,4.3%,91%);
   text-align: center;
   font-size: 40px;
+  float:right;
  
 }
 h3{
   color:hsl(30,4.3%,91%);
   font-size: 18px;
   font-size: 10px;
+  
 }
 
  .container {
   background-color: hsl(240,17.8%,25.3%);
-  height: 387px;
-  wideth:100px
+  height: 320px;
+  width:640px;
+   margin:50px;
     
 }
