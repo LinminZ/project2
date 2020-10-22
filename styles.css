@@ -21,17 +21,15 @@ h3{
 }
 
  .container {
+  box-sizing: border-box;
   background-color: hsl(240,17.8%,25.3%);
   height: 320px;
   width:640px;
-   margin:50px;
+  margin:50px;
     
 }
 .information{
   float:left;
 
 }
-  .button{
-    
-      text-align: center;
   
