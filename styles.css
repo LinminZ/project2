@@ -1,6 +1,7 @@
 body {
-font-family: 
-background-color: ;
+font-family: ;
+background-color: hsl(208,30%,90%);
+
 }
 
 h2{
@@ -22,10 +23,14 @@ p{
 }
 
 
-div{
+ .container {
   background-color: hsl(240,17.8%,25.3%);
   margin: 0px;
   height: 387px;
   padding:0px;
   wedith: 400px  
+}
+.text{
+  
+  
 }
