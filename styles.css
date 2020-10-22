@@ -6,22 +6,24 @@ background-color: ;
 h2{
  
 }
+h3{
+  color:hsl(30,4.3%,91%);
+  font-size: 18px;
+  
+}
 
 p{
   color:white;
-  
+  float:right;
 }
 
 div{
 
-  background-color: purple;
+  background-color: hsl(240,17.8%,25.3%);
   margin: 10px;
   height: 500px;
   padding:30px;
-  wedith: 500px
+  wedith: 600px
   
- 
-
- 
     
 }
