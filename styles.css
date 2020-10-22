@@ -3,19 +3,21 @@ font-family: ;
 background-color: black;
 
 }
+img{
+  float:left;
+}
 
 h2{
   color:hsl(30,4.3%,91%);
   text-align: center;
   font-size: 40px;
-  float:right;
+  float:left;
  
 }
 h3{
   color:hsl(30,4.3%,91%);
-  font-size: 18px;
   font-size: 10px;
-  
+ 
 }
 
  .container {
@@ -25,3 +27,8 @@ h3{
    margin:50px;
     
 }
+.information{
+  float:left;
+  display:inline;
+  text-align:center
+  
