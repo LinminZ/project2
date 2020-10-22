@@ -8,12 +8,20 @@ h2{
 }
 
 p{
-  color:purple
+  color:white;
+  
 }
 
-div {
-  margin-top: 5px;
-  margin-right: 10px;
-  margin-bottom: 15px;
-  margin-left: 20px;
+div{
+
+  background-color: purple;
+  margin: 10px;
+  height: 500px;
+  padding:30px;
+  wedith: 500px
+  
+ 
+
+ 
+    
 }
