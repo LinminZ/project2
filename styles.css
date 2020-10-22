@@ -21,7 +21,10 @@ h3{
 p{
   float:right;
 }
-a{}
+a{
+  float:right;
+  
+}
 
  .container {
   background-color: hsl(240,17.8%,25.3%);
