@@ -7,12 +7,14 @@ h2{
   color:hsl(30,4.3%,91%);
   float:right;
   text-align: center;
+  font-size: 40px;
  
 }
 h3{
   color:hsl(30,4.3%,91%);
   font-size: 18px;
   float:right;
+  font-size: 10px;
   
 }
 p{
@@ -22,9 +24,8 @@ p{
 
 div{
   background-color: hsl(240,17.8%,25.3%);
-  margin: 10px;
+  margin: 0px;
   height: 387px;
   padding:0px;
   wedith: 400px
- 
 }
