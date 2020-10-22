@@ -29,6 +29,9 @@ h3{
 }
 .information{
   float:left;
-  display:inline;
-  text-align:center
+
+}
+  .button{
+    
+      text-align: center;
   
