@@ -21,7 +21,7 @@ h3{
 p{
   float:right;
 }
-
+a{}
 
  .container {
   background-color: hsl(240,17.8%,25.3%);
@@ -29,8 +29,4 @@ p{
   height: 387px;
   padding:0px;
   wedith: 400px  
-}
-.text{
-  
-  
 }
