@@ -39,11 +39,11 @@ h3{
 }
 .button{
   float:left;
-  padding-left:45px;
-  padding-bottom:40px;
+  margin-left:45px;
   padding-top:-10px
   
 }
 .button:hover {
+  background:teal;
  
 }
