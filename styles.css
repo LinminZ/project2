@@ -21,7 +21,8 @@ h3{
   font-family: 'Architects Daughter', cursive;
   color:hsl(30,4.3%,91%);
   font-size: 12px;
-  padding-left:50px;
+  padding-left:70px;
+  line-heiht: 1
 }
 
 
@@ -38,10 +39,11 @@ h3{
 }
 .button{
   float:left;
-  padding-left:40px;
-  padding-right:45px;
+  padding-left:45px;
+  padding-bottom:40px;
+  padding-top:-10px
+  
 }
 .button:hover {
  
-  border: 2px solid green
 }
