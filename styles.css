@@ -48,9 +48,16 @@ h3{
  
 }
 
-.list{
+.u-list-reset{
   list-style: none;
   margin: 0;
   padding-left: 0;
-  
+}
+
+.u-list-inline li{
+  display:inline-block
+}
+
+.list li+li{
+  border-left: 2px solid ;
 }
