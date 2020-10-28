@@ -48,8 +48,15 @@ h3{
  
 }
 
-.u-list-reset{
+.list{
   margin: 0;
-  padding-left:0;
+
   list-style: none;
+}
+
+.list li+li{
+  display: inline-block;
+  padding-left:20px;
+  padding-right:15px;
+  border-left:3px solid hsl(30,4.3%,91%);
 }
