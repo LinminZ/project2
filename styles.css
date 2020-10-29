@@ -41,11 +41,12 @@ h3{
 .button{
   float:left;
   margin-left:60px;
-  padding-top:-10px
+  padding-top:-10px;
+  transition: all 1s;
   
 }
 .button:hover {
-  background:yellow;
+  background:violet;
  
 }
 
