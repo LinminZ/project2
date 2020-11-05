@@ -1,60 +1,12 @@
-body {
-font-family: ;
-background-color: black;
 
-}
-img{
-  float:left;
-}
-
-h2{
-  font-family:'Cabin Sketch', cursive;
-  color:hsl(30,4.3%,91%);
-  text-align: right;
-  font-size: 54px;
-  float:left;
-  padding-left:46px;
-  
- 
-}
-h3{
-  font-family: 'Architects Daughter', cursive;
-  color:hsl(30,4.3%,91%);
-  font-size: 18px;
-  padding-left:52px;
-  padding-bottom:20px;
-  line-heiht: 1
-}
-
-
- .container {
+* {
   box-sizing: border-box;
-  background-color: hsl(240,17.8%,25.3%);
-  height: 320px;
-  width:640px;
-   margin:50px;
-    
-}
-.information{
-  float:left;
-}
-.button{
-  float:left;
-  margin-left:60px;
-  padding-top:-10px;
-  transition: all 1s;
-  
-}
-.button:hover {
-  background:yellow;
- 
 }
 
 .u-list-reset{
   list-style: none;
   margin: 0;
-  padding-left: 0;
-  
+  padding-left: 0; 
 }
 
 .u-list-inline li{
@@ -62,6 +14,53 @@ h3{
   padding-left: 10px;
   padding-left: 10px;
 }
+
+
+body {
+background-color: black;
+}
+
+img{
+  float:left;
+}
+
+h2{
+  font-family:'Cabin Sketch', cursive;
+  color:hsl(30,4.3%,91%);
+  font-size: 54px; 
+}
+
+ul{
+  font-family: 'Architects Daughter', cursive;
+  color:hsl(30,4.3%,91%);
+  font-size: 18px;
+  padding-bottom:20px;
+  line-heiht: 1
+}
+
+
+ .container { 
+  background-color: hsl(240,17.8%,25.3%);
+  height: 320px;
+  width:640px;
+   margin:50px;    
+}
+
+.information{
+  float:left;
+  padding: 0 36px;
+  text-align:center;
+}
+.button{
+  float:left;
+  transition: all 1s;  
+}
+
+.button:hover {
+  background:yellow;
+
+}
+
 
 .list li+li{
   border-left: 2px solid silver;
