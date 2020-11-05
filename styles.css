@@ -16,7 +16,7 @@
 
 body {
   /*   font-family: ; */
-  background-color:purple;
+  background-color:hsl(234,18.5%,10.6%)
 }
 
 img {
@@ -33,7 +33,6 @@ ul {
   color: hsl(30, 4.3%, 91%);
   font-size: 18px;
   padding-bottom: 20px;
-  line-heiht: 1;
 }
 
 .container {
