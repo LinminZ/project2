@@ -1,6 +1,7 @@
-* {
-  box-sizing: border-box;
+*{
+  box-sizing:border-box;
 }
+
 
 .u-list-reset {
   list-style: none;
@@ -15,7 +16,6 @@
 }
 
 body {
-  /*   font-family: ; */
   background-color:hsl(234,18.5%,10.6%)
 }
 
@@ -28,6 +28,7 @@ h2 {
   color: hsl(30, 4.3%, 91%);
   font-size: 54px;
 }
+
 ul {
   font-family: "Architects Daughter", cursive;
   color: hsl(30, 4.3%, 91%);
@@ -35,22 +36,25 @@ ul {
   padding-bottom: 20px;
 }
 
-.container {
-  box-sizing: border-box;
-  background-color: hsl(240, 17.8%, 25.3%);
-  height: 320px;
+.container{
+  box-sizing:border-box;
+  background-color:hsl (240, 17.8%, 25.3%);
+  height:320px;
   width: 640px;
   margin: 50px;
 }
+
 .information {
   float: left;
   padding: 0 36px;
   text-align: center;
 }
+
 .button {
   display: inline-block;
   transition: all 1s;
 }
+
 .button:hover {
   background: yellow;
 }
