@@ -1,68 +1,62 @@
-
 * {
   box-sizing: border-box;
 }
 
-.u-list-reset{
+.u-list-reset {
   list-style: none;
   margin: 0;
-  padding-left: 0; 
+  padding-left: 0;
 }
 
-.u-list-inline li{
-  display:inline-block;
+.u-list-inline li {
+  display: inline-block;
   padding-left: 10px;
   padding-left: 10px;
 }
-
 
 body {
-background-color: black;
+  /*   font-family: ; */
+  background-color:purple;
 }
 
-img{
-  float:left;
+img {
+  float: left;
 }
 
-h2{
-  font-family:'Cabin Sketch', cursive;
-  color:hsl(30,4.3%,91%);
-  font-size: 54px; 
+h2 {
+  font-family: "Cabin Sketch", cursive;
+  color: hsl(30, 4.3%, 91%);
+  font-size: 54px;
 }
-
-ul{
-  font-family: 'Architects Daughter', cursive;
-  color:hsl(30,4.3%,91%);
+ul {
+  font-family: "Architects Daughter", cursive;
+  color: hsl(30, 4.3%, 91%);
   font-size: 18px;
-  padding-bottom:20px;
-  line-heiht: 1
+  padding-bottom: 20px;
+  line-heiht: 1;
 }
 
-
- .container { 
-  background-color: hsl(240,17.8%,25.3%);
+.container {
+  box-sizing: border-box;
+  background-color: hsl(240, 17.8%, 25.3%);
   height: 320px;
-  width:640px;
-   margin:50px;    
+  width: 640px;
+  margin: 50px;
 }
-
-.information{
-  float:left;
+.information {
+  float: left;
   padding: 0 36px;
-  text-align:center;
+  text-align: center;
 }
-.button{
-  float:left;
-  transition: all 1s;  
+.button {
+  display: inline-block;
+  transition: all 1s;
 }
-
 .button:hover {
-  background:yellow;
-
+  background: yellow;
 }
 
-
-.list li+li{
+.list li + li {
   border-left: 2px solid silver;
-  line-height:16px;
+  line-height: 16px;
 }
